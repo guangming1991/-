@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#upload-card {
+    float: right;
+    width: 30%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 12px #aaa;
+    margin-left: 20px;
+}
+
+table {
+    width: 65%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+#footer {
+    clear: both;
+    margin-top: 30px;
+}
+
+button {
+    padding: 5px 15px;
+    cursor: pointer;
+}
+
+input[type="submit"] {
+    padding: 5px 15px;
+    cursor: pointer;
+}
